@@ -1,5 +1,5 @@
 # Food Delivery Time Prediction
-- Dataset [Link](https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction)
+- Dataset [Download](https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction)
 
 
 ## Metrics
